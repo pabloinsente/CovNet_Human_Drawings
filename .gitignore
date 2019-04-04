@@ -1,2 +1,3 @@
 # Ignore following files:
-.ipynb_checkpoints
+code\.ipynb_checkpoints\
+
