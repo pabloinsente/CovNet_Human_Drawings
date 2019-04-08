@@ -4,9 +4,9 @@
 cd ..
 cd ./data/human_drawings_adults
 # rename all files adding "ADULT" at the end
-for i in *DAP.png
+for i in *ADULT.jpg
 do
-    mv "$i" "${i/DAP.png/DAP_ADULT.png}"
+    mv "$i" "${i/DAPDAP_ADULT.jpg/DAP_ADULT.jpg}"
 done
 
 # go to kids' drawings directory
